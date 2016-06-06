@@ -4,9 +4,9 @@ Slic3r is free software, developed by Alessandro Ranellucci and licensed under t
 TrideoSoft is an easy-to-use slicing program with basic parameters optimized for Trideo printers. Only the perl interface was changed, the slicing generator is running by Slic3r 1.2.7
 Choose TrideoSoft folder according to your printing area
 
-- Mini PrintBox : 150x150mm
-- PrintBox & PrintBox Kit : 200x200mm
-- PrintBox Max : 300x300mm
+- Mini PrintBox : 150x150mm - TrideoSoft 1515
+- PrintBox & PrintBox Kit : 200x200mm - TrideoSoft 2020
+- PrintBox Max : 300x300mm - TrideoSoft 3030
 
 Launch Trideo3D.exe to execute the program
 We kept/removed some parameters to simplify its use however you can modify the constants and adjust variables for other profiles editing files in folder "Res"
