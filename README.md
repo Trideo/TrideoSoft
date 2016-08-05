@@ -5,7 +5,7 @@ TrideoSoft is an easy-to-use slicing program with basic parameters optimized for
 Choose TrideoSoft folder according to your printing area
 
 - Mini PrintBox : 150x150mm - TrideoSoft 1515
-- PrintBox & PrintBox Kit : 200x200mm - TrideoSoft 2020
+- PrintBox : 200x200mm - TrideoSoft 2020
 - PrintBox Max : 300x300mm - TrideoSoft 3030
 
 Launch Trideo3D.exe to execute the program
